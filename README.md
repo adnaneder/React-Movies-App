@@ -1,10 +1,10 @@
+
 React MOVIES & TV SERIES App
 
 Welcome.
 Millions of movies, TV shows to discover. Explore now.
 
-![](images/image.png)
-
+![image](https://user-images.githubusercontent.com/81650708/115093950-6ef5ef00-9f0b-11eb-87b5-9e15efbc25e0.png)
 #### Technologies
 
 - React JS
